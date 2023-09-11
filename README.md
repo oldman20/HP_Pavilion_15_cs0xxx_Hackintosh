@@ -1,9 +1,9 @@
-# HP Pavilion 15 cs0101TX Hackintosh with OpenCore
+# HP Pavilion 15 cs0xxx Hackintosh with OpenCore
 
 ## Overview
 - **Download the latest zipped EFI [here](https://github.com/vietthai2512/HP_Pavilion_15_cs0101TX_Hackintosh/releases).**
-- macOS version: **Monterey** **12.6.1**
-- OpenCore version: **0.8.6**
+- macOS version: **Ventura** **13**
+- OpenCore version: **0.9.4**
 
  <summary><strong>macOS Monterey</strong></summary>
 
@@ -31,11 +31,10 @@
 
 | Category | Detail |
 |:----:|:----:|
-| Product name | HP Pavilion - 15-cs0101tx |
-| Microprocessor | Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 3.4 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores)|
+| Product name | HP Pavilion - 15-cs0xxx |
+| Microprocessor | Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 1.8 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores)|
 | IGPU | Intel® UHD Graphics 620 |
-| DGPU | NVIDIA® GeForce® MX130 |
-| Memory | 12GB DDR4-2400 SDRAM (1 x 4 GB + 1 x 8 GB) |
+| Memory | 8GB DDR4-2400 SDRAM (2 x 4 GB) |
 | Drives | Toshiba 1 TB 5400 rpm SATA & Samsung 970 Evo 250GB NVMe M.2 |
 | Display | 15.6" diagonal FHD SVA anti-glare WLED-backlit (1920 x 1080) |
 | Keyboard | Full-size island-style keyboard with numeric keypad, PS/2 |
