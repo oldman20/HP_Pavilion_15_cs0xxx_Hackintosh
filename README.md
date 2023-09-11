@@ -53,3 +53,5 @@
 ## Note
 
 - Generate your own MLB, SystemSerialNumber, SystemUUID (<https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo>)
+
+## https://github.com/KrolSeb/HP-Pavilion-Gaming-15-dk00xxxx-Hackintosh-OpenCore
